@@ -1,3 +1,3 @@
 # lampp-tutorial
 LAMPP Tutorial
-Day 2 of lampp tutorial
+Day 1 of lampp tutorial
